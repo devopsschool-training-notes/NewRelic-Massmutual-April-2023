@@ -1,0 +1,21 @@
+https://cloud.cdp.rpsconsulting.in/console/#/		
+SJS_NR01	Sampath Kumar	Rps@12345
+SJS_NR02	Soudarya Chalika	Rps@12345
+SJS_NR03	Leena Dasari	Rps@12345
+SJS_NR04	Manasa G	Rps@12345
+SJS_NR05	Harika Gade	Rps@12345
+SJS_NR06	Vdyasagar G	Rps@12345
+SJS_NR07	Chaitanya JK	Rps@12345
+SJS_NR08	Ujwal J	Rps@12345
+SJS_NR09	Vinod Kumar Reddy	Rps@12345
+SJS_NR10	Satish Kumar	Rps@12345
+SJS_NR11	Muqtadir	Rps@12345
+SJS_NR12	Swpna Mallam	Rps@12345
+SJS_NR13	Saijyoshna Masadi	Rps@12345
+SJS_NR14	Pawan Mishra	Rps@12345
+SJS_NR15	Venkata Sai	Rps@12345
+SJS_NR16	Brunda Mula	Rps@12345
+SJS_NR17	Shagupta	Rps@12345
+SJS_NR18	Moses Pilla	Rps@12345
+SJS_NR19	Madhumita	Rps@12345
+SJS_NR20	Karthik Achuta	Rps@12345
