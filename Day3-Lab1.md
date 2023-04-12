@@ -4,7 +4,7 @@
 
 ## Step 3 - Enable NewRelic Agent for Apache Log
 - Go to /etc/newrelic-infra/logging.d
-- Add a file called apache.log with following content
+- Add a file called apache.yml with following content
 
 logs:
   - name: apache access log
